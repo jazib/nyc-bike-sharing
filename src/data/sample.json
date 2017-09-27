@@ -1,0 +1,2048 @@
+{
+  "last_updated": 1506520677,
+  "ttl": 10,
+  "data": {
+    "stations": [
+      {
+        "station_id": "72",
+        "name": "W 52 St & 11 Ave",
+        "short_name": "6926.01",
+        "lat": 40.76727216,
+        "lon": -73.99392888,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=72",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "79",
+        "name": "Franklin St & W Broadway",
+        "short_name": "5430.08",
+        "lat": 40.71911552,
+        "lon": -74.00666661,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 33,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=79",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "82",
+        "name": "St James Pl & Pearl St",
+        "short_name": "5167.06",
+        "lat": 40.71117416,
+        "lon": -74.00016545,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=82",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "83",
+        "name": "Atlantic Ave & Fort Greene Pl",
+        "short_name": "4354.07",
+        "lat": 40.68382604,
+        "lon": -73.97632328,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 62,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=83",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "116",
+        "name": "W 17 St & 8 Ave",
+        "short_name": "6148.02",
+        "lat": 40.74177603,
+        "lon": -74.00149746,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=116",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "119",
+        "name": "Park Ave & St Edwards St",
+        "short_name": "4700.06",
+        "lat": 40.69608941,
+        "lon": -73.97803415,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=119",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "120",
+        "name": "Lexington Ave & Classon Ave",
+        "short_name": "4452.03",
+        "lat": 40.68676793,
+        "lon": -73.95928168,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=120",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "127",
+        "name": "Barrow St & Hudson St",
+        "short_name": "5805.05",
+        "lat": 40.73172428,
+        "lon": -74.00674436,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=127",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "128",
+        "name": "MacDougal St & Prince St",
+        "short_name": "5687.04",
+        "lat": 40.72710258,
+        "lon": -74.00297088,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 30,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=128",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "143",
+        "name": "Clinton St & Joralemon St",
+        "short_name": "4605.04",
+        "lat": 40.69239502,
+        "lon": -73.99337909,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 24,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=143",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "144",
+        "name": "Nassau St & Navy St",
+        "short_name": "4812.02",
+        "lat": 40.69839895,
+        "lon": -73.98068914,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=144",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "146",
+        "name": "Hudson St & Reade St",
+        "short_name": "5359.10",
+        "lat": 40.71625008,
+        "lon": -74.0091059,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=146",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "150",
+        "name": "E 2 St & Avenue C",
+        "short_name": "5476.03",
+        "lat": 40.7208736,
+        "lon": -73.98085795,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=150",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "151",
+        "name": "Cleveland Pl & Spring St",
+        "short_name": "5492.05",
+        "lat": 40.722103786686034,
+        "lon": -73.99724900722504,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 33,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=151",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "152",
+        "name": "Warren St & Church St",
+        "short_name": "5288.09",
+        "lat": 40.71473993,
+        "lon": -74.00910627,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 29,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=152",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "153",
+        "name": "E 40 St & 5 Ave",
+        "short_name": "6474.11",
+        "lat": 40.752062307,
+        "lon": -73.9816324043,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 4,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=153",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "157",
+        "name": "Henry St & Atlantic Ave",
+        "short_name": "4531.05",
+        "lat": 40.69089272,
+        "lon": -73.99612349,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=157",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "161",
+        "name": "LaGuardia Pl & W 3 St",
+        "short_name": "5721.14",
+        "lat": 40.72917025,
+        "lon": -73.99810231,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 35,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=161",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "164",
+        "name": "E 47 St & 2 Ave",
+        "short_name": "6498.10",
+        "lat": 40.75323098,
+        "lon": -73.97032517,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 47,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=164",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "167",
+        "name": "E 39 St & 3 Ave",
+        "short_name": "6389.03",
+        "lat": 40.7489006,
+        "lon": -73.97604882,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 45,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=167",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "168",
+        "name": "W 18 St & 6 Ave",
+        "short_name": "6064.08",
+        "lat": 40.73971301,
+        "lon": -73.99456405,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 47,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=168",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "173",
+        "name": "Broadway & W 49 St",
+        "short_name": "6708.02",
+        "lat": 40.76068327096592,
+        "lon": -73.9845272898674,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 51,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=173",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "174",
+        "name": "E 25 St & 1 Ave",
+        "short_name": "6004.07",
+        "lat": 40.7381765,
+        "lon": -73.97738662,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 30,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=174",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "195",
+        "name": "Liberty St & Broadway",
+        "short_name": "5105.01",
+        "lat": 40.70905623,
+        "lon": -74.01043382,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 45,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=195",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "212",
+        "name": "W 16 St & The High Line",
+        "short_name": "6233.05",
+        "lat": 40.74334935,
+        "lon": -74.00681753,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 28,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=212",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "216",
+        "name": "Columbia Heights & Cranberry St",
+        "short_name": "4829.01",
+        "lat": 40.70037867,
+        "lon": -73.99548059,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=216",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "217",
+        "name": "Old Fulton St",
+        "short_name": "4903.08",
+        "lat": 40.70277159,
+        "lon": -73.99383605,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=217",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "223",
+        "name": "W 13 St & 7 Ave",
+        "short_name": "6030.04",
+        "lat": 40.73781509,
+        "lon": -73.99994661,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 33,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=223",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "228",
+        "name": "E 48 St & 3 Ave",
+        "short_name": "6541.03",
+        "lat": 40.7546011026,
+        "lon": -73.971878855,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 55,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=228",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "229",
+        "name": "Great Jones St",
+        "short_name": "5636.11",
+        "lat": 40.72743423,
+        "lon": -73.99379025,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=229",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "232",
+        "name": "Cadman Plaza E & Tillary St",
+        "short_name": "4677.01",
+        "lat": 40.69597683,
+        "lon": -73.99014892,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=232",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "236",
+        "name": "St Marks Pl & 2 Ave",
+        "short_name": "5669.10",
+        "lat": 40.7284186,
+        "lon": -73.98713956,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=236",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "237",
+        "name": "E 11 St & 2 Ave",
+        "short_name": "5746.04",
+        "lat": 40.73047309,
+        "lon": -73.98672378,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=237",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "238",
+        "name": "Bank St & Washington St",
+        "short_name": "5964.01",
+        "lat": 40.7361967,
+        "lon": -74.00859207,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=238",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "239",
+        "name": "Willoughby St & Fleet St",
+        "short_name": "4628.05",
+        "lat": 40.69196566,
+        "lon": -73.9813018,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=239",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "241",
+        "name": "DeKalb Ave & S Portland Ave",
+        "short_name": "4546.04",
+        "lat": 40.68981035,
+        "lon": -73.97493121,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=241",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "242",
+        "name": "Carlton Ave & Flushing Ave",
+        "short_name": "4732.08",
+        "lat": 40.697787,
+        "lon": -73.973736,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=242",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "243",
+        "name": "Fulton St & Rockwell Pl",
+        "short_name": "4513.03",
+        "lat": 40.688226,
+        "lon": -73.979382,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=243",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "244",
+        "name": "Willoughby Ave & Hall St",
+        "short_name": "4611.03",
+        "lat": 40.69196035,
+        "lon": -73.96536851,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=244",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "245",
+        "name": "Myrtle Ave & St Edwards St",
+        "short_name": "4659.02",
+        "lat": 40.69327018,
+        "lon": -73.97703874,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=245",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "247",
+        "name": "Perry St & Bleecker St",
+        "short_name": "5922.07",
+        "lat": 40.73535398,
+        "lon": -74.00483091,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 20,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=247",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "248",
+        "name": "Laight St & Hudson St",
+        "short_name": "5539.06",
+        "lat": 40.72185379,
+        "lon": -74.00771779,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=248",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "249",
+        "name": "Harrison St & Hudson St",
+        "short_name": "5400.05",
+        "lat": 40.71870987,
+        "lon": -74.0090009,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=249",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "251",
+        "name": "Mott St & Prince St",
+        "short_name": "5561.04",
+        "lat": 40.72317958,
+        "lon": -73.99480012,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=251",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "252",
+        "name": "MacDougal St & Washington Sq",
+        "short_name": "5797.01",
+        "lat": 40.73226398,
+        "lon": -73.99852205,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 33,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=252",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "253",
+        "name": "W 13 St & 5 Ave",
+        "short_name": "5947.02",
+        "lat": 40.73543934,
+        "lon": -73.99453948,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 55,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=253",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "254",
+        "name": "W 11 St & 6 Ave",
+        "short_name": "5914.03",
+        "lat": 40.73532427,
+        "lon": -73.99800419,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=254",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "257",
+        "name": "Lispenard St & Broadway",
+        "short_name": "5391.06",
+        "lat": 40.71939226,
+        "lon": -74.00247214,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=257",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "258",
+        "name": "DeKalb Ave & Vanderbilt Ave",
+        "short_name": "4461.04",
+        "lat": 40.68940747,
+        "lon": -73.96885458,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=258",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "259",
+        "name": "South St & Whitehall St",
+        "short_name": "4846.01",
+        "lat": 40.70122128,
+        "lon": -74.01234218,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=259",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "260",
+        "name": "Broad St & Bridge St",
+        "short_name": "4962.08",
+        "lat": 40.70365182,
+        "lon": -74.01167797,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 35,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=260",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "261",
+        "name": "Johnson St & Gold St",
+        "short_name": "4668.08",
+        "lat": 40.69474881,
+        "lon": -73.98362464,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=261",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "262",
+        "name": "Washington Park",
+        "short_name": "4546.05",
+        "lat": 40.6917823,
+        "lon": -73.9737299,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 24,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=262",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "264",
+        "name": "Maiden Ln & Pearl St",
+        "short_name": "5065.10",
+        "lat": 40.70706456,
+        "lon": -74.00731853,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=264",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "265",
+        "name": "Stanton St & Chrystie St",
+        "short_name": "5523.02",
+        "lat": 40.72229346,
+        "lon": -73.99147535,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 35,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=265",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "266",
+        "name": "Avenue D & E 8 St",
+        "short_name": "5506.10",
+        "lat": 40.72368361,
+        "lon": -73.97574813,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 24,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=266",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "267",
+        "name": "Broadway & W 36 St",
+        "short_name": "6441.01",
+        "lat": 40.75097711,
+        "lon": -73.98765428,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 57,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=267",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "268",
+        "name": "Howard St & Centre St",
+        "short_name": "5422.04",
+        "lat": 40.71910537,
+        "lon": -73.99973337,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=268",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "270",
+        "name": "Adelphi St & Myrtle Ave",
+        "short_name": "4620.02",
+        "lat": 40.69308257,
+        "lon": -73.97178913,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=270",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "274",
+        "name": "Lafayette Ave & Fort Greene Pl",
+        "short_name": "4395.04",
+        "lat": 40.68691865,
+        "lon": -73.976682,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=274",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "275",
+        "name": "Washington Ave & Greene Ave",
+        "short_name": "4419.03",
+        "lat": 40.68650065,
+        "lon": -73.96563307,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=275",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "276",
+        "name": "Duane St & Greenwich St",
+        "short_name": "5400.08",
+        "lat": 40.71748752,
+        "lon": -74.0104554,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 25,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=276",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "278",
+        "name": "Concord St & Bridge St",
+        "short_name": "4781.03",
+        "lat": 40.69766564,
+        "lon": -73.98476437,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=278",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "279",
+        "name": "Peck Slip & Front St",
+        "short_name": "5098.10",
+        "lat": 40.707873,
+        "lon": -74.00167,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 36,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=279",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "280",
+        "name": "E 10 St & 5 Ave",
+        "short_name": "5872.08",
+        "lat": 40.73331967,
+        "lon": -73.99510132,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=280",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "281",
+        "name": "Grand Army Plaza & Central Park S",
+        "short_name": "6839.10",
+        "lat": 40.7643971,
+        "lon": -73.97371465,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 57,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=281",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "282",
+        "name": "Kent Ave & S 11 St",
+        "short_name": "5062.01",
+        "lat": 40.707644944175705,
+        "lon": -73.96841526031494,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=282",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "284",
+        "name": "Greenwich Ave & 8 Ave",
+        "short_name": "6072.06",
+        "lat": 40.7390169121,
+        "lon": -74.0026376103,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 43,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=284",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "285",
+        "name": "Broadway & E 14 St",
+        "short_name": "5905.12",
+        "lat": 40.73454567,
+        "lon": -73.99074142,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 51,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=285",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "289",
+        "name": "Monroe St & Classon Ave",
+        "short_name": "4336.01",
+        "lat": 40.6845683,
+        "lon": -73.95881081,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=289",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "291",
+        "name": "Madison St & Montgomery St",
+        "short_name": "5262.09",
+        "lat": 40.713126,
+        "lon": -73.984844,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 20,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=291",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "293",
+        "name": "Lafayette St & E 8 St",
+        "short_name": "5788.13",
+        "lat": 40.73020660529954,
+        "lon": -73.99102628231049,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 55,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=293",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "295",
+        "name": "Pike St & E Broadway",
+        "short_name": "5270.05",
+        "lat": 40.71406667,
+        "lon": -73.99293911,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 24,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=295",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "296",
+        "name": "Division St & Bowery",
+        "short_name": "5238.04",
+        "lat": 40.71413089,
+        "lon": -73.9970468,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 35,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=296",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "297",
+        "name": "E 15 St & 3 Ave",
+        "short_name": "5863.07",
+        "lat": 40.734232,
+        "lon": -73.986923,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=297",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "301",
+        "name": "E 2 St & Avenue B",
+        "short_name": "5515.02",
+        "lat": 40.72217444,
+        "lon": -73.98368779,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 37,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=301",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "302",
+        "name": "Avenue D & E 3 St",
+        "short_name": "5436.09",
+        "lat": 40.72082834,
+        "lon": -73.97793172,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=302",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "303",
+        "name": "Mercer St & Spring St",
+        "short_name": "5532.01",
+        "lat": 40.72362738,
+        "lon": -73.99949601,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=303",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "304",
+        "name": "Broadway & Battery Pl",
+        "short_name": "4962.01",
+        "lat": 40.70463334,
+        "lon": -74.01361706,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 33,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=304",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "305",
+        "name": "E 58 St & 3 Ave",
+        "short_name": "6762.02",
+        "lat": 40.76095756,
+        "lon": -73.96724467,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 33,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=305",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "306",
+        "name": "Cliff St & Fulton St",
+        "short_name": "5065.13",
+        "lat": 40.70823502,
+        "lon": -74.00530063,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 17,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=306",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "307",
+        "name": "Canal St & Rutgers St",
+        "short_name": "5303.08",
+        "lat": 40.71427487,
+        "lon": -73.98990025,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=307",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "308",
+        "name": "St James Pl & Oliver St",
+        "short_name": "5238.05",
+        "lat": 40.71307916,
+        "lon": -73.99851193,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=308",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "309",
+        "name": "Murray St & West St",
+        "short_name": "5329.06",
+        "lat": 40.7149787,
+        "lon": -74.013012,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 41,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=309",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "310",
+        "name": "State St & Smith St",
+        "short_name": "4565.06",
+        "lat": 40.68926942,
+        "lon": -73.98912867,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 36,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=310",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "311",
+        "name": "Norfolk St & Broome St",
+        "short_name": "5374.01",
+        "lat": 40.7172274,
+        "lon": -73.98802084,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=311",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "312",
+        "name": "Allen St & Stanton St",
+        "short_name": "5484.09",
+        "lat": 40.722055,
+        "lon": -73.989111,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=312",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "313",
+        "name": "Washington Ave & Park Ave",
+        "short_name": "4724.03",
+        "lat": 40.69610226,
+        "lon": -73.96751037,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=313",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "314",
+        "name": "Cadman Plaza West & Montague St",
+        "short_name": "4677.07",
+        "lat": 40.69383,
+        "lon": -73.990539,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=314",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "315",
+        "name": "South St & Gouverneur Ln",
+        "short_name": "4953.04",
+        "lat": 40.70355377,
+        "lon": -74.00670227,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 29,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=315",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "316",
+        "name": "Fulton St & William St",
+        "short_name": "5137.11",
+        "lat": 40.70955958,
+        "lon": -74.00653609,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=316",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "317",
+        "name": "E 6 St & Avenue B",
+        "short_name": "5584.04",
+        "lat": 40.72453734,
+        "lon": -73.98185424,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=317",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "319",
+        "name": "Fulton St & Broadway",
+        "short_name": "5175.08",
+        "lat": 40.711066,
+        "lon": -74.009447,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 33,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=319",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "320",
+        "name": "Leonard St & Church St",
+        "short_name": "5359.11",
+        "lat": 40.717571,
+        "lon": -74.005549,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=320",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "321",
+        "name": "Cadman Plaza E & Red Cross Pl",
+        "short_name": "4821.06",
+        "lat": 40.69991755,
+        "lon": -73.98971773,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=321",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "322",
+        "name": "Clinton St & Tillary St",
+        "short_name": "4748.04",
+        "lat": 40.696192,
+        "lon": -73.991218,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=322",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "323",
+        "name": "Lawrence St & Willoughby St",
+        "short_name": "4596.09",
+        "lat": 40.69236178,
+        "lon": -73.98631746,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=323",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "324",
+        "name": "DeKalb Ave & Hudson Ave",
+        "short_name": "4513.06",
+        "lat": 40.689888,
+        "lon": -73.981013,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 51,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=324",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "325",
+        "name": "E 19 St & 3 Ave",
+        "short_name": "5938.01",
+        "lat": 40.73624527,
+        "lon": -73.98473765,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 35,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=325",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "326",
+        "name": "E 11 St & 1 Ave",
+        "short_name": "5746.14",
+        "lat": 40.72953837,
+        "lon": -73.98426726,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=326",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "327",
+        "name": "Vesey Pl & River Terrace",
+        "short_name": "5297.02",
+        "lat": 40.7153379,
+        "lon": -74.01658354,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=327",
+        "eightd_has_key_dispenser": true
+      },
+      {
+        "station_id": "328",
+        "name": "Watts St & Greenwich St",
+        "short_name": "5578.02",
+        "lat": 40.72405549,
+        "lon": -74.00965965,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=328",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "330",
+        "name": "Reade St & Broadway",
+        "short_name": "5247.10",
+        "lat": 40.71450451,
+        "lon": -74.00562789,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=330",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "331",
+        "name": "Pike St & Monroe St",
+        "short_name": "5159.04",
+        "lat": 40.71173107,
+        "lon": -73.99193043,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=331",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "332",
+        "name": "Cherry St",
+        "short_name": "5181.04",
+        "lat": 40.71219906,
+        "lon": -73.97948148,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 24,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=332",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "334",
+        "name": "W 20 St & 7 Ave",
+        "short_name": "6182.02",
+        "lat": 40.74238787,
+        "lon": -73.99726235,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=334",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "335",
+        "name": "Washington Pl & Broadway",
+        "short_name": "5755.01",
+        "lat": 40.72903917,
+        "lon": -73.99404649,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=335",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "336",
+        "name": "Sullivan St & Washington Sq",
+        "short_name": "5721.01",
+        "lat": 40.73047747,
+        "lon": -73.99906065,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 36,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=336",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "337",
+        "name": "Old Slip & Front St",
+        "short_name": "4993.12",
+        "lat": 40.7037992,
+        "lon": -74.00838676,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 37,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=337",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "339",
+        "name": "Avenue D & E 12 St",
+        "short_name": "5575.08",
+        "lat": 40.72580614,
+        "lon": -73.97422494,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 24,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=339",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "340",
+        "name": "Madison St & Clinton St",
+        "short_name": "5190.07",
+        "lat": 40.71269042,
+        "lon": -73.98776323,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=340",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "341",
+        "name": "Stanton St & Mangin St",
+        "short_name": "5326.06",
+        "lat": 40.71782143,
+        "lon": -73.97628939,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 19,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=341",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "342",
+        "name": "Columbia St & Rivington St",
+        "short_name": "5365.02",
+        "lat": 40.71739973,
+        "lon": -73.98016555,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 29,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=342",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "343",
+        "name": "Clinton Ave & Flushing Ave",
+        "short_name": "4762.04",
+        "lat": 40.69794,
+        "lon": -73.96986848,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=343",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "344",
+        "name": "Monroe St & Bedford Ave",
+        "short_name": "4368.05",
+        "lat": 40.6851443,
+        "lon": -73.95380904,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=344",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "345",
+        "name": "W 13 St & 6 Ave",
+        "short_name": "5989.01",
+        "lat": 40.73649403,
+        "lon": -73.99704374,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 35,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=345",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "346",
+        "name": "Bank St & Hudson St",
+        "short_name": "5922.08",
+        "lat": 40.73652889,
+        "lon": -74.00618026,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=346",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "347",
+        "name": "Greenwich St & W Houston St",
+        "short_name": "5730.08",
+        "lat": 40.728846,
+        "lon": -74.008591,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 35,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=347",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "349",
+        "name": "Rivington St & Ridge St",
+        "short_name": "5406.02",
+        "lat": 40.71850211,
+        "lon": -73.98329859,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=349",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "350",
+        "name": "Clinton St & Grand St",
+        "short_name": "5303.06",
+        "lat": 40.71559509,
+        "lon": -73.9870295,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 28,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=350",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "351",
+        "name": "Front St & Maiden Ln",
+        "short_name": "5024.08",
+        "lat": 40.70530954,
+        "lon": -74.00612572,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=351",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "353",
+        "name": "S Portland Ave & Hanson Pl",
+        "short_name": "4354.05",
+        "lat": 40.68539567,
+        "lon": -73.97431458,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=353",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "354",
+        "name": "Emerson Pl & Myrtle Ave",
+        "short_name": "4683.02",
+        "lat": 40.69363137,
+        "lon": -73.96223558,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=354",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "355",
+        "name": "Bayard St & Baxter St",
+        "short_name": "5351.03",
+        "lat": 40.71602118,
+        "lon": -73.99974372,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 43,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=355",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "356",
+        "name": "Bialystoker Pl & Delancey St",
+        "short_name": "5335.03",
+        "lat": 40.71622644,
+        "lon": -73.98261206,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 23,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=356",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "357",
+        "name": "E 11 St & Broadway",
+        "short_name": "5829.12",
+        "lat": 40.73261787,
+        "lon": -73.99158043,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=357",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "358",
+        "name": "Christopher St & Greenwich St",
+        "short_name": "5847.01",
+        "lat": 40.73291553,
+        "lon": -74.00711384,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 36,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=358",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "359",
+        "name": "E 47 St & Park Ave",
+        "short_name": "6584.12",
+        "lat": 40.75510267,
+        "lon": -73.97498696,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 53,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=359",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "360",
+        "name": "William St & Pine St",
+        "short_name": "5065.12",
+        "lat": 40.70717936,
+        "lon": -74.00887308,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 39,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=360",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "361",
+        "name": "Allen St & Hester St",
+        "short_name": "5342.10",
+        "lat": 40.71605866,
+        "lon": -73.99190759,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 43,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=361",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "362",
+        "name": "Broadway & W 37 St",
+        "short_name": "6441.02",
+        "lat": 40.75172632,
+        "lon": -73.98753523,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 57,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=362",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "363",
+        "name": "West Thames St",
+        "short_name": "5114.06",
+        "lat": 40.70834698,
+        "lon": -74.01713445,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 48,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=363",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "364",
+        "name": "Lafayette Ave & Classon Ave",
+        "short_name": "4452.01",
+        "lat": 40.68900443,
+        "lon": -73.96023854,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 27,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=364",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "365",
+        "name": "Fulton St & Grand Ave",
+        "short_name": "4263.10",
+        "lat": 40.68223166,
+        "lon": -73.9614583,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 31,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=365",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "366",
+        "name": "Clinton Ave & Myrtle Ave",
+        "short_name": "4651.02",
+        "lat": 40.693261,
+        "lon": -73.968896,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 33,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=366",
+        "eightd_has_key_dispenser": false
+      },
+      {
+        "station_id": "3635",
+        "name": "W 36 St & 9 Ave",
+        "short_name": "6569.07",
+        "lat": 40.75462324029105,
+        "lon": -73.99516761302948,
+        "region_id": 71,
+        "rental_methods": [
+          "CREDITCARD",
+          "KEY"
+        ],
+        "capacity": 41,
+        "rental_url": "http://app.citibikenyc.com/S6Lr/IBV092JufD?station_id=3635",
+        "eightd_has_key_dispenser": false
+      }
+    ]
+  }
+}
