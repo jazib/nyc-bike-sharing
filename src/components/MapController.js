@@ -53,6 +53,7 @@ export default class MapController extends React.Component {
         return (
             <div className="MapController">
                 <GoogleMap
+                    bootstrapURLKeys={{key: 'AIzaSyA5iTd_0_LDU7o0mT2ecKYEVtB53XwbZ9g'}}
                     center={this.props.center}
                     zoom={this.props.zoom}
                 >
