@@ -1,19 +1,16 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Root from './components/Root'
 
 class App extends Component {
     render() {
         return (
-            <div className="App">
-                <header className="App-header">
-                    <img src={logo} className="App-logo" alt="logo"/>
-                    <h1 className="App-title">New York City Bikes Data</h1>
-                </header>
-                <div style={{width: '100%', height: '400px'}}>
-                    <Root/>
+            <div className={`App container`}>
+                <div className="jumbotron">
+                    <h1>NYC Bike Sharing Data Visualization</h1>
+                    <p>Following is detailed visualization of NYC bike station locations and their current and historical usage </p>
                 </div>
+                <Root/>
             </div>
         );
     }

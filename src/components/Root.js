@@ -1,12 +1,13 @@
 import React from 'react';
-import MapController from "./MapController";
+import ChartComponent from "./ChartComponent";
+import MapComponent from "./MapComponent";
 
 export default class Root extends React.Component {
 
     constructor(props) {
         super(props);
         this.state = {
-            stationsData: [],
+            stationsData: {timeStamp: 0, dataArr: []},
         };
     }
 
@@ -20,10 +21,8 @@ export default class Root extends React.Component {
             }).then((responses) => {
             // we have both responses in json form by now!
             this.processData(responses);
-            let ttl = Math.min(responses[0].ttl, responses[1].ttl); // assuming most of the times these times will be equal
-            if (ttl > 0) {
-                setTimeout(this.fetchFreshData, ttl * 1000);
-            }
+            setTimeout(this.fetchFreshData, 60*1000);  // poll for each minute (could have used ttl here, but not specific to use case)
+
         }).catch((error) => {
             console.log("Error" + error);
         })
@@ -36,7 +35,7 @@ export default class Root extends React.Component {
     processData = (responses) => {
         let stationInfoArr = responses[0].data.stations,
             stationStatusArr = responses[1].data.stations,
-            newDataSet = [];
+            newDataSet = {timeStamp: responses[0].last_updated, dataArr: []};
         if (stationStatusArr.length <= stationInfoArr.length) {
             for (let i = 0; i < stationStatusArr.length; i++) {
                 let stationInfo = stationInfoArr[i],
@@ -45,7 +44,7 @@ export default class Root extends React.Component {
                     console.warn("Warning! Results are not in sync.");
                     continue;
                 }
-                newDataSet.push({
+                newDataSet.dataArr.push({
                     stationInfo: stationInfo,
                     stationStatus: stationStatus
                 })
@@ -58,7 +57,12 @@ export default class Root extends React.Component {
 
     render() {
         return (
-            <MapController jsonData={this.state.stationsData}/>
+            <div className="Root">
+                <h1> Map </h1>
+                <MapComponent jsonData={this.state.stationsData} />
+                 <h1> Charts </h1>
+                <ChartComponent jsonData={this.state.stationsData}/>
+            </div>
         );
     }
 }
