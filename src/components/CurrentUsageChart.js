@@ -1,8 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import '../../node_modules/react-vis/dist/style.css';
-import {XYPlot, VerticalBarSeries, XAxis, YAxis, Hint} from 'react-vis';
-import RadialChart from "react-vis/es/radial-chart/index";
+import {XYPlot, VerticalBarSeries, XAxis, YAxis, Hint, RadialChart} from 'react-vis';
 
 
 // https://stackoverflow.com/a/1484514/1167918
