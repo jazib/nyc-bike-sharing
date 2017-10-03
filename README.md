@@ -28,7 +28,7 @@ Jump right ahead to [demo](https://jazib.github.io/nyc-bike-sharing/) or follow 
 5. Open `localhost:3000` in browser to run app
 
 
-Other third party libraries are:
+###Other third party libraries are:
 
 - [google-map-react](https://github.com/istarkov/google-map-react) - for google maps
 - [react-vis](https://github.com/uber/react-vis) - data visualization library by uber, used here for charts
@@ -37,5 +37,15 @@ Other third party libraries are:
 and of course [react-bootstrap](https://react-bootstrap.github.io/) for most UI work.
 
 
+##Testing
+The app utilizes `jest` to run tests that are preconfigured in `create-react-app`.
+
+Run tests using: 
+```
+npm test
+
+```
+
+I attempted to create some initial tests using `enzyme` and `chai` but there are some version conflicts with react 16 to be resolved at a later date.
 
 
