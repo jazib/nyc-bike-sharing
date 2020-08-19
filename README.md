@@ -19,7 +19,6 @@ Node: https://nodejs.org/en/
 ```
 
 ## Getting Started
-Jump right ahead to [demo](https://jazib.github.io/nyc-bike-sharing/) or follow these steps to run locally:
 
 1. `git clone https://github.com/jazib/nyc-bike-sharing`
 2. `cd nyc-bike-sharing`
@@ -46,6 +45,5 @@ npm test
 
 ```
 
-I attempted to create some initial tests using `enzyme` and `chai` but there are some version conflicts with react 16 to be resolved at a later date.
 
 
